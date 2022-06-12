@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NGP_VAN_APP", "NGP_VAN_APP.csproj", "{D53370D7-5CBE-4373-A5F1-F935B14D483E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D53370D7-5CBE-4373-A5F1-F935B14D483E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D53370D7-5CBE-4373-A5F1-F935B14D483E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D53370D7-5CBE-4373-A5F1-F935B14D483E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D53370D7-5CBE-4373-A5F1-F935B14D483E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46A1E434-216B-4514-A9B4-9BE551CB68FE}
+	EndGlobalSection
+EndGlobal
